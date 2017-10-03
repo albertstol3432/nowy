@@ -56,9 +56,17 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<<<<<<< HEAD
+
+<ul>
+  <li>Lista zamiast</li>
+  <li>tamtego contentu</li>
+</ul>
+=======
 </nav>
 <div class="container">
   <h1>Główna zawartość strony</h2>
     <h2>Pierwsza zmiana po commicie</h2>
 </div>
 </body>
+>>>>>>> master
