@@ -56,9 +56,16 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-</nav>
+<<<<<<< HEAD
 <div class="container">
   <h1>Główna zawartość strony</h2>
     <h2>Pierwsza zmiana po commicie</h2>
 </div>
 </body>
+=======
+
+<div class="container">
+  <h1>Główna zawartość strony</h2>
+    <h2>zmiany w newBranch</h2>
+</div>
+>>>>>>> newBranch
